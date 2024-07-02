@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEzjkSZZexWwyYdFM8d3aofge5UAwbbTDstVXItFhTjN6bLI8A7cau6hdG2sdVutDyCxgnb68Uw+IgN68ZWtig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tosha\\Desktop\\07.06\\пм11\\PrPr11\\PrPr11\\PrPr11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tosha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tosha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tosha\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

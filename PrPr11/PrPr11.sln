@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrPr11", "PrPr11\PrPr11.csproj", "{817CED8D-1216-44EF-8C90-6C33BD5F15FE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Office", "Office\Office.vdproj", "{7242A548-06DB-44FC-9BE9-7F37FAC84C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817CED8D-1216-44EF-8C90-6C33BD5F15FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817CED8D-1216-44EF-8C90-6C33BD5F15FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817CED8D-1216-44EF-8C90-6C33BD5F15FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817CED8D-1216-44EF-8C90-6C33BD5F15FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7242A548-06DB-44FC-9BE9-7F37FAC84C41}.Debug|Any CPU.ActiveCfg = Debug
+		{7242A548-06DB-44FC-9BE9-7F37FAC84C41}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A858891B-0F89-4209-B0E6-3EDC13339A1A}
+	EndGlobalSection
+EndGlobal
